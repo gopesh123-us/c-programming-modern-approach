@@ -1,6 +1,6 @@
 # c-programming-modern-approach
 
-## 1.1 History of C
+## Chapter 1: History of C
 
 - C is the product of the UNIX operating system
 - UNIX: Developer at Bell Labs in assembly language - 1970s
@@ -32,4 +32,4 @@
   - Enhanced version of LINT (Secure Programming Lint)
   - Included in most LINUX operating systems.
 
-## 2. C Fundamentals
+## Chapter 2: C Fundamentals

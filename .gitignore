@@ -1,0 +1,63 @@
+# ==============================================================================
+# 1. C/C++ COMPILATION & BUILD ARTIFACTS
+# ==============================================================================
+# Object files and libraries
+*.o
+*.obj
+*.ko
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Dependency files
+*.d
+
+# Executables (Windows, macOS, Linux)
+*.exe
+*.out
+*.app
+*.hex
+
+# Precompiled headers
+*.gch
+*.pch
+
+# ==============================================================================
+# 2. DEBUGGER & IDE OUTPUTS
+# ==============================================================================
+# Debug symbols and data
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.ilk
+*.map
+*.exp
+
+# ==============================================================================
+# 3. VISUAL STUDIO CODE SPECIFIC
+# ==============================================================================
+# Ignore general VS Code workspace files
+.vscode/*
+
+# EXCEPT for your explicit compiler, task, and debugger configurations
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Local history extensions
+.history/
+
+# ==============================================================================
+# 4. OS SPECIFIC (Optional but Recommended)
+# ==============================================================================
+Thumbs.db
+.DS_Store
